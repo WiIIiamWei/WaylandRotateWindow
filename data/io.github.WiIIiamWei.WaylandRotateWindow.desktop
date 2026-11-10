@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Wayland Rotate Window
+Name[zh_CN]=Wayland 窗口旋转
+Comment=Rotate and mirror a live window using PipeWire
+Exec=wayland-rotate-window
+Icon=video-display
+Terminal=false
+Categories=Graphics;
+StartupWMClass=io.github.WiIIiamWei.WaylandRotateWindow
